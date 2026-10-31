@@ -1,0 +1,6 @@
+{
+  "name": "VoiceCraft AI",
+  "description": "Modern AI Text-to-Speech (TTS) Voice Generator with ultra-realistic close-mic voice messages, multilingual support including Bangla, English, and Hindi, custom voice personas, and high-fidelity audio downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
